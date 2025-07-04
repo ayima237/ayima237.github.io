@@ -46,7 +46,7 @@ volume = 4/3 * np.pi * r**3
 print(volume)
 
 ```
-Remember that we created a one dimentional array of radii for all 8 planets above. Now, I will use that to calculate the volume of all eight planets simultanously.
+Remember that we created a one dimensional array of radii for all 8 planets above. Now, I will use that to calculate the volume of all eight planets simultanously.
 
 ```
 volumes = 4/3 * np.pi * radii**3
