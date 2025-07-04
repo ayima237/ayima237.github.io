@@ -67,5 +67,5 @@ np.sort(volumes)
 Here is an _ordered list_ showing the volumes of our 1 million imaginary planets in ascending order.
 
 
-![alt text](/img/posts/coffee_python.jpg "![image](https://github.com/user-attachments/assets/5935477b-4838-4f45-bd22-367336733b44)
+![alt text](https://github.com/user-attachments/assets/5935477b-4838-4f45-bd22-367336733b44)
 !")
