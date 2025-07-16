@@ -22,7 +22,7 @@ import numpy as np
 
 ```
 
-A quick research online gave the radii of planets as seen above which we will assign to the variable radii!
+A quick research online gave the radii of planets as seen below which we will assign to the variable radii!
 Mercury: 2439.7 km
 Venus: 6051.8 km
 Earth: 6371.0 km
